@@ -9,3 +9,5 @@ If you --the user-- do not have a `snippets.json` file, you can click [here](htt
 And, you can click [here](https://docs.emmet.io/abbreviations/syntax/) that has the syntax for the 'template' or as VSCode calls them, snippets, allowing you to build on to the code that can be found [in this repository](https://github.com/TheUnknownGroup/VSCode-Snippets/blob/main/snippets.json), or create your own snippet and share it to the whole world, like we are doing.
 
 Of course, if you wish to distribute it, we are not going to ask you this time to credit us, as it would be deemed innapropiate. As for our other repositories--not all but definitely some--, we would ask you to credit us if you wish to distribute your work for any of the code you modified.
+
+If you would like more information, you can click [here](https://code.visualstudio.com/docs/editor/emmet#_using-custom-emmet-snippets) which will bring you to the VSCode docs for any and all stuff related to it!
