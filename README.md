@@ -10,4 +10,4 @@ And, you can click [here](https://docs.emmet.io/abbreviations/syntax/) that has 
 
 Of course, if you wish to distribute it, we are not going to ask you this time to credit us, as it would be deemed innapropiate. As for our other repositories--not all but definitely some--, we would ask you to credit us if you wish to distribute your work for any of the code you modified.
 
-If you would like more information, you can click [here](https://code.visualstudio.com/docs/editor/emmet#_using-custom-emmet-snippets) which will bring you to the VSCode docs for any and all stuff related to it!
+If you would like more information, you can click [here](https://code.visualstudio.com/docs/editor) which will bring you to the VSCode docs for any and all stuff related to it!
