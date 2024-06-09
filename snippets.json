@@ -1,0 +1,19 @@
+{
+    "html": {
+        "snippets": {
+
+            "!": "{<!DOCTYPE html>}+html:lang>(head:stu)>(title{Document})>body",
+
+            "head:stu": "(head>meta:utf+meta:http+meta:vp+link:style+link:icon+script:src)",
+
+            "meta:utf": "meta[charset=${1}${charset}]",
+            "meta:http": "meta[http-equiv=${1}${http} content=${1}${con}]",
+
+            "html:lang": "html[lang=${1}${lang}]",
+
+            "script:src": "script[src=\"\"]",
+            "link:style": "link[rel=\"stylesheet\" href=\"\"]",
+            "link:icon": "link[rel=\"shortcut icon\" type=\"image/x-icon\" href=\"\"]"
+        }
+    }
+}
